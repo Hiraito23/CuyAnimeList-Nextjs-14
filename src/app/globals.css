@@ -66,10 +66,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-
-img {
-  width: 100%;
-  height: auto;
-  transition: .3s ease-in all;
-}
